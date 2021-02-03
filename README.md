@@ -1,3 +1,3 @@
 # 102DataPort
 
-This program extract the data from 102 via Bluetooth Serial
+This program extracts the data from 102 via Bluetooth Serial and save to a csv file.
